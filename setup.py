@@ -20,10 +20,10 @@ tests_require = [
     'coverage>=4.0',
     'isort>=4.3',
     'mock>=1.3.0',
-    'pydocstyle>=1.0.0',
+    'pydocstyle>=3.0.0',
     'pytest-cov>=1.8.0',
     'pytest-pep8>=1.0.6',
-    'pytest>=3.3.1',
+    'pytest>=3.5.0',
     'invenio-indexer>=1.0.0',
     'invenio-search[elasticsearch2]>=1.0.0',
 ]
